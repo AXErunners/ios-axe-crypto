@@ -1,0 +1,7 @@
+target 'ios-axe-crypto_Tests' do
+  
+  platform :ios, '10.0'
+  
+  pod 'ios-axe-crypto', :path => '../'
+  
+end
